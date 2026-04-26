@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="logo">AKM<span>.</span>SOUND</div>
-    <a href="https://wa.me/5547972100079" target="_blank">
+    <a href="https://wa.me/55479972100079" target="_blank">
       <button class="nav-btn">📲 WhatsApp</button>
     </a>
   </nav>

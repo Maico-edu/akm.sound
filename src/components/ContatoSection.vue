@@ -5,11 +5,11 @@
     <div class="contact-wrap">
 
       <div class="clinks">
-        <a class="clink" href="https://wa.me/5547972100079" target="_blank">
+        <a class="clink" href="https://wa.me/55479972100079" target="_blank">
           <span class="clink-ic">📲</span>
           <div>
             <div class="clink-lbl">WhatsApp</div>
-            <div class="clink-val">+55 47 9721-0079</div>
+            <div class="clink-val">+55 47 99721-0079</div>
           </div>
         </a>
         <a class="clink" href="https://www.instagram.com/akm_sound_" target="_blank">
