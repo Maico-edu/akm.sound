@@ -5,11 +5,11 @@
     <div class="contact-wrap">
 
       <div class="clinks">
-        <a class="clink" href="https://wa.me/55479972100079" target="_blank">
+        <a class="clink" href="https://wa.me/5547997210079" target="_blank">
           <span class="clink-ic">📲</span>
           <div>
             <div class="clink-lbl">WhatsApp</div>
-            <div class="clink-val">+55 47 99721-0079</div>
+            <div class="clink-val">+55 47 9721-0079</div>
           </div>
         </a>
         <a class="clink" href="https://www.instagram.com/akm_sound_" target="_blank">
@@ -66,7 +66,7 @@ const form = reactive({ nome: '', tel: '', srv: '', msg: '' })
 
 function enviar() {
   const txt = `Olá AKM Sound! Meu nome é *${form.nome || 'cliente'}*${form.tel ? `, fone: ${form.tel}` : ''}.\nServiço: *${form.srv || 'Não informado'}*\n${form.msg}`
-  window.open(`https://wa.me/5547972100079?text=${encodeURIComponent(txt)}`, '_blank')
+  window.open(`https://wa.me/5547997210079?text=${encodeURIComponent(txt)}`, '_blank')
 }
 </script>
 

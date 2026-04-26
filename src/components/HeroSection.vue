@@ -4,7 +4,7 @@
     <h1>AKM <span>SOUND</span></h1>
     <p class="desc">Instalação de som, conserto de módulos e alto-falantes, e acessórios para o seu carro.</p>
     <div class="btns">
-      <a href="https://wa.me/55479972100079" target="_blank" class="btn-r">Pedir Orçamento</a>
+      <a href="https://wa.me/5547997210079" target="_blank" class="btn-r">Pedir Orçamento</a>
       <a href="#servicos" class="btn-g">Ver Serviços</a>
     </div>
   </section>

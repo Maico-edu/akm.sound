@@ -4,7 +4,7 @@
   <ServicosSection />
   <ContatoSection />
   <FooterSection />
-  <a class="wa" href="https://wa.me/5547972100079?text=Olá%20AKM%20Sound!%20Gostaria%20de%20um%20orçamento." target="_blank">📲</a>
+  <a class="wa" href="https://wa.me/5547997210079?text=Olá%20AKM%20Sound!%20Gostaria%20de%20um%20orçamento." target="_blank">📲</a>
 </template>
 
 <script setup>
